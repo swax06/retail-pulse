@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "573151500138",
+    "firebase_url": "https://retail-pulse-72545-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "retail-pulse-72545",
+    "storage_bucket": "retail-pulse-72545.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573151500138:android:2d88836f340c031c873713",
+        "android_client_info": {
+          "package_name": "com.retailpulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS41i-BeLyGXj7H56Db8rOkoxl-V_COIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
